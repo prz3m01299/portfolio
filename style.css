@@ -1,5 +1,6 @@
 body {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  overflow-x: hidden;
 }
 
 /* Navigation Bar */
@@ -12,7 +13,7 @@ body {
   margin-top:-1cm;
   padding-top: 2cm;
   padding-bottom: 2cm;
-  height: 5mm;
+  height: 4mm;
  }
 
 .topmenu {
@@ -67,7 +68,7 @@ h2 {
   margin: 30px;
   margin-left: 60px;
   margin-top: 40px;
-  margin-bottom: 0px;
+  margin-bottom: 20px;
 }
 
 .introduction {
@@ -104,6 +105,7 @@ h2 {
   font-size: 25px;
   color: rgb(128, 128, 128);
   margin-top: -1cm;
+  margin-left: 40px;
 }
 
 
@@ -127,7 +129,7 @@ h2 {
   display: block;
   border-radius: 6px;
   text-align: center;
-  margin: 50px;
+  margin: auto;
   padding: 10px;
   width: 2in;
   font-size: 20px;
